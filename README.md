@@ -1,4 +1,4 @@
-# retogit
+## retogit
 Reto para clase
 En este reto aprendí a manejarme con Github, para ello seguí 9 pasos
 1.Comence creando un repositorio
